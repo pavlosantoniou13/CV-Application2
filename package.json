@@ -11,7 +11,7 @@
     "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "http://ishuamali.github.io/react-gh-pages"
+    "homepage": "http://pavlosantoniou13.github.io/react-gh-pages"
   },
   "scripts": {
     "start": "react-scripts start",
